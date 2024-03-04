@@ -1,0 +1,11 @@
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.Dtos\bin\Debug\net8.0\ToDoAppNTier.Dtos.deps.json
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.Dtos\bin\Debug\net8.0\ToDoAppNTier.Dtos.dll
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.Dtos\bin\Debug\net8.0\ToDoAppNTier.Dtos.pdb
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.Dtos\obj\Debug\net8.0\ToDoAppNTier.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.Dtos\obj\Debug\net8.0\ToDoAppNTier.Dtos.AssemblyInfoInputs.cache
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.Dtos\obj\Debug\net8.0\ToDoAppNTier.Dtos.AssemblyInfo.cs
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.Dtos\obj\Debug\net8.0\ToDoAppNTier.Dtos.csproj.CoreCompileInputs.cache
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.Dtos\obj\Debug\net8.0\ToDoAppNTier.Dtos.dll
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.Dtos\obj\Debug\net8.0\refint\ToDoAppNTier.Dtos.dll
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.Dtos\obj\Debug\net8.0\ToDoAppNTier.Dtos.pdb
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.Dtos\obj\Debug\net8.0\ref\ToDoAppNTier.Dtos.dll

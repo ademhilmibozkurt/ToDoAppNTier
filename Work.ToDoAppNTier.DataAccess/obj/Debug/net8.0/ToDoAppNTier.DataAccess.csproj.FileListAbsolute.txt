@@ -1,0 +1,17 @@
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\bin\Debug\net8.0\ToDoAppNTier.DataAccess.deps.json
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\bin\Debug\net8.0\ToDoAppNTier.DataAccess.runtimeconfig.json
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\bin\Debug\net8.0\ToDoAppNTier.DataAccess.dll
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\bin\Debug\net8.0\ToDoAppNTier.DataAccess.pdb
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\bin\Debug\net8.0\ToDoAppNTier.Entities.dll
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\bin\Debug\net8.0\ToDoAppNTier.Entities.pdb
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\obj\Debug\net8.0\ToDoAppNTier.DataAccess.csproj.AssemblyReference.cache
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\obj\Debug\net8.0\ToDoAppNTier.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\obj\Debug\net8.0\ToDoAppNTier.DataAccess.AssemblyInfoInputs.cache
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\obj\Debug\net8.0\ToDoAppNTier.DataAccess.AssemblyInfo.cs
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\obj\Debug\net8.0\ToDoAppNTier.DataAccess.csproj.CoreCompileInputs.cache
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\obj\Debug\net8.0\ToDoAppN.38360B44.Up2Date
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\obj\Debug\net8.0\ToDoAppNTier.DataAccess.dll
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\obj\Debug\net8.0\refint\ToDoAppNTier.DataAccess.dll
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\obj\Debug\net8.0\ToDoAppNTier.DataAccess.pdb
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\obj\Debug\net8.0\ToDoAppNTier.DataAccess.genruntimeconfig.cache
+D:\projects\C#\Asp.NetCore\Work.ToDoAppNTier\Work.ToDoAppNTier.DataAccess\obj\Debug\net8.0\ref\ToDoAppNTier.DataAccess.dll
